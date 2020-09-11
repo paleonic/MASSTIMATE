@@ -1,0 +1,10 @@
+Package: MASSTIMATE
+Type: Package
+Title: Body Mass Estimation Equations for Vertebrates
+Version: 2.0-2
+Date: 2020-09-01
+Author: Nicolas E. Campione
+Maintainer: Nicolas E. Campione <ncampion@une.edu.au>
+Depends: R (>= 3.5.0)
+Description: Estimation equations are from a variety of sources and associated error estimation.
+License: GPL (>= 2)
